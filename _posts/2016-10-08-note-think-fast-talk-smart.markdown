@@ -15,8 +15,8 @@ date:   2016-10-08 14:00:00 -0700
  - Take time to listen.
  - User framework:
 - Framework:
- - ** Problem -> Solution -> Benefit:**
+ - **Problem -> Solution -> Benefit:**
    - Problem can be replaced by *Opportunity*
- - ** What -> So What? -> Now What? **
+ - **What -> So What? -> Now What?**
    - So what = why
    - Now what = next step
