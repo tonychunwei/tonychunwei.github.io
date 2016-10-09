@@ -1,6 +1,9 @@
 ---
-published: true
+layout: post
+title:  "My first post!"
+date:   2016-10-08 14:00:00 -0700
 ---
+
 [Youtube link](https://youtu.be/HAnw168huqA)
 
 - Manage anxiety:
