@@ -5,7 +5,7 @@ date: '2016-10-08 14:00:00 -0700'
 published: true
 ---
 
-[Youtube link](https://youtu.be/HAnw168huqA)
+[Youtube Link](https://youtu.be/HAnw168huqA)
 
 - Manage anxiety:
   - Greeting anxiety.
