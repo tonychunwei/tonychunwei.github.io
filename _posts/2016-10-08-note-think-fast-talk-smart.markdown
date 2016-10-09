@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## [Note] Think Fast, Talk Smart: Communication Techniques
 
